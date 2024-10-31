@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730399684 source:c:\users\gehad\documents\second year\ds\codes\circulesinglelist\main.c
+	<stdio.h>
+	"circularsingle.h"
+
+1730399295 c:\users\gehad\documents\second year\ds\codes\circulesinglelist\circularsingle.h
+
+1730411222 source:c:\users\gehad\documents\second year\ds\codes\circulesinglelist\circularsingle.c
+	<stdio.h>
+	<stdlib.h>
+	"circularsingle.h"
+
